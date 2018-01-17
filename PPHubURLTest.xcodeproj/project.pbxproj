@@ -41,6 +41,7 @@
 		59939CD1200F5FB100865882 = {
 			isa = PBXGroup;
 			children = (
+				59939CF3200F632600865882 /* README.md */,
 				59939CDC200F5FB100865882 /* PPHubURLTest */,
 				59939CDB200F5FB100865882 /* Products */,
 			);
@@ -57,24 +58,23 @@
 		59939CDC200F5FB100865882 /* PPHubURLTest */ = {
 			isa = PBXGroup;
 			children = (
-				59939CEF200F5FC000865882 /* 测试文件夹 */,
+				59939CEF200F5FC000865882 /* 😈🖐🏻 */,
 				59939CDD200F5FB100865882 /* AppDelegate.swift */,
 				59939CDF200F5FB100865882 /* ViewController.swift */,
 				59939CE1200F5FB100865882 /* Main.storyboard */,
 				59939CE4200F5FB100865882 /* Assets.xcassets */,
 				59939CE6200F5FB100865882 /* LaunchScreen.storyboard */,
 				59939CE9200F5FB100865882 /* Info.plist */,
-				59939CF3200F632600865882 /* README.md */,
 			);
 			path = PPHubURLTest;
 			sourceTree = "<group>";
 		};
-		59939CEF200F5FC000865882 /* 测试文件夹 */ = {
+		59939CEF200F5FC000865882 /* 😈🖐🏻 */ = {
 			isa = PBXGroup;
 			children = (
 				59939CF0200F5FDB00865882 /* TestFile.swift */,
 			);
-			path = "测试文件夹";
+			path = "😈🖐🏻";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
