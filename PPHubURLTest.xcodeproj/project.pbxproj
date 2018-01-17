@@ -12,6 +12,7 @@
 		59939CE3200F5FB100865882 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59939CE1200F5FB100865882 /* Main.storyboard */; };
 		59939CE5200F5FB100865882 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59939CE4200F5FB100865882 /* Assets.xcassets */; };
 		59939CE8200F5FB100865882 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59939CE6200F5FB100865882 /* LaunchScreen.storyboard */; };
+		59939CF1200F5FDB00865882 /* TestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59939CF0200F5FDB00865882 /* TestFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		59939CE4200F5FB100865882 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59939CE7200F5FB100865882 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59939CE9200F5FB100865882 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59939CF0200F5FDB00865882 /* TestFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		59939CDC200F5FB100865882 /* PPHubURLTest */ = {
 			isa = PBXGroup;
 			children = (
+				59939CEF200F5FC000865882 /* 测试文件夹 */,
 				59939CDD200F5FB100865882 /* AppDelegate.swift */,
 				59939CDF200F5FB100865882 /* ViewController.swift */,
 				59939CE1200F5FB100865882 /* Main.storyboard */,
@@ -62,6 +65,14 @@
 				59939CE9200F5FB100865882 /* Info.plist */,
 			);
 			path = PPHubURLTest;
+			sourceTree = "<group>";
+		};
+		59939CEF200F5FC000865882 /* 测试文件夹 */ = {
+			isa = PBXGroup;
+			children = (
+				59939CF0200F5FDB00865882 /* TestFile.swift */,
+			);
+			path = "测试文件夹";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59939CF1200F5FDB00865882 /* TestFile.swift in Sources */,
 				59939CE0200F5FB100865882 /* ViewController.swift in Sources */,
 				59939CDE200F5FB100865882 /* AppDelegate.swift in Sources */,
 			);
