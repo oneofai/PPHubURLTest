@@ -24,6 +24,7 @@
 		59939CE7200F5FB100865882 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59939CE9200F5FB100865882 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59939CF0200F5FDB00865882 /* TestFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
+		59939CF3200F632600865882 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				59939CE4200F5FB100865882 /* Assets.xcassets */,
 				59939CE6200F5FB100865882 /* LaunchScreen.storyboard */,
 				59939CE9200F5FB100865882 /* Info.plist */,
+				59939CF3200F632600865882 /* README.md */,
 			);
 			path = PPHubURLTest;
 			sourceTree = "<group>";
