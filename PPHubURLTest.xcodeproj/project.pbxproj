@@ -58,7 +58,7 @@
 		59939CDC200F5FB100865882 /* PPHubURLTest */ = {
 			isa = PBXGroup;
 			children = (
-				59939CEF200F5FC000865882 /* Test */,
+				59939CEF200F5FC000865882 /* Test🙅🏻‍♀️ */,
 				59939CDD200F5FB100865882 /* AppDelegate.swift */,
 				59939CDF200F5FB100865882 /* ViewController.swift */,
 				59939CE1200F5FB100865882 /* Main.storyboard */,
@@ -69,12 +69,12 @@
 			path = PPHubURLTest;
 			sourceTree = "<group>";
 		};
-		59939CEF200F5FC000865882 /* Test */ = {
+		59939CEF200F5FC000865882 /* Test🙅🏻‍♀️ */ = {
 			isa = PBXGroup;
 			children = (
 				59939CF0200F5FDB00865882 /* TestFile.swift */,
 			);
-			path = Test;
+			path = "Test🙅🏻‍♀️";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
